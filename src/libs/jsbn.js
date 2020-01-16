@@ -38,7 +38,7 @@
 
 var crypt = require('crypto-js');
 var _ = require('../utils')._;
-
+var Buffer = require('buffer/').Buffer ;
 // Bits per digit
 var dbits;
 
