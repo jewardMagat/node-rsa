@@ -3,7 +3,7 @@
  *
  */
 
-var crypt = require('crypto-js');
+var crypt = require('crypto');
 
 /**
  * Break string str each maxLen symbols

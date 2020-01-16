@@ -36,7 +36,7 @@
  * 2014 rzcoder
  */
 
-var crypt = require('crypto-js');
+var crypt = require('crypto');
 var _ = require('../utils')._;
 var Buffer = require('buffer/').Buffer ;
 // Bits per digit

@@ -1,4 +1,4 @@
-var crypto = require('crypto-js');
+var crypto = require('crypto');
 var constants = require('constants');
 var schemes = require('../schemes/schemes.js');
 

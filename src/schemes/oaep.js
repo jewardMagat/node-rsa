@@ -3,7 +3,7 @@
  */
 
 var BigInteger = require('../libs/jsbn');
-var crypt = require('crypto-js');
+var crypt = require('crypto');
 var Buffer = require('buffer/').Buffer ;
 
 module.exports = {

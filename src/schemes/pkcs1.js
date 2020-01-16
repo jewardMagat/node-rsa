@@ -3,7 +3,7 @@
  */
 
 var BigInteger = require('../libs/jsbn');
-var crypt = require('crypto-js');
+var crypt = require('crypto');
 var constants = require('constants');
 var Buffer = require('buffer/').Buffer 
 var SIGN_INFO_HEAD = {
