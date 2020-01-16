@@ -5,7 +5,7 @@
  * License MIT
  */
 
-var constants = require('node-constants');
+var constants = require('constants');
 var rsa = require('./libs/rsa.js');
 var crypt = require('crypto-js');
 var ber = require('asn1').Ber;

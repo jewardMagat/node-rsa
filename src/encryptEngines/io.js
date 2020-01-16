@@ -1,5 +1,5 @@
 var crypto = require('crypto-js');
-var constants = require('node-constants');
+var constants = require('constants');
 var schemes = require('../schemes/schemes.js');
 
 module.exports = function (keyPair, options) {
