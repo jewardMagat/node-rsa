@@ -1,4 +1,4 @@
-var crypt = require('crypto');
+var crypt = require('crypto-js');
 
 module.exports = {
     getEngine: function (keyPair, options) {
